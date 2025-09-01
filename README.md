@@ -53,7 +53,7 @@ Run all cells.
 
 Option 2: Run Locally (pip)
 # Clone repo
-git clone https://github.com/your-username/brain-tumor-classification.git
+git clone https://github.com/Jenimon1011/brain-tumor-mri-classification.git
 cd brain-tumor-classification
 
 # Install dependencies
@@ -84,7 +84,7 @@ Grad-CAM visualizations: Highlights MRI regions influencing predictions.
 
 🔧 Built With
 
-TensorFlow/Keras
+[TensorFlow/Keras](https://www.tensorflow.org/guide/keras)
 
 NumPy
 
