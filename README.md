@@ -86,13 +86,13 @@ Grad-CAM visualizations: Highlights MRI regions influencing predictions.
 
 [TensorFlow/Keras](https://www.tensorflow.org/guide/keras)
 
-NumPy
+[NumPy](https://numpy.org)
 
-Matplotlib
+[Matplotlib](https://matplotlib.org/?utm_source=chatgpt.com)
 
-scikit-learn
+[scikit-learn](https://scikit-learn.org)
 
-OpenCV
+[OpenCV](https://opencv.org)
 
 ✍️ Author
 
