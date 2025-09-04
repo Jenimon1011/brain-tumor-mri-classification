@@ -79,8 +79,7 @@ Evaluation metrics: Precision, Recall, F1-score per class (see notebook).
 Confusion matrix: Shows classification distribution.
 
 Grad-CAM visualizations: Highlights MRI regions influencing predictions.
-
-(Add an image of your confusion matrix or Grad-CAM here!)
+[Grad-Cam-Glioma](download.png)
 
 🔧 Built With
 
