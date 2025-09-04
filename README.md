@@ -32,9 +32,9 @@ No tumor
 
 To download it automatically, you will need a Kaggle API key (kaggle.json). Instructions are included in the notebook.
 
-📂 Repository Structure
-brain-tumor-classification/
-│
+📂 Repository Structure <br>
+brain-tumor-classification/ <br>
+│ <br>
 ├── brain_tumor_classification.ipynb   # Main Jupyter/Colab notebook <br>
 ├── requirements.txt                    # Dependencies (pip) <br>
 ├── environment.yml                     # Dependencies (conda)  <br>
