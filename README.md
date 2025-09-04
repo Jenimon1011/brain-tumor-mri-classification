@@ -35,11 +35,11 @@ To download it automatically, you will need a Kaggle API key (kaggle.json). Inst
 📂 Repository Structure
 brain-tumor-classification/
 │
-├── brain_tumor_classification.ipynb   # Main Jupyter/Colab notebook
-├── requirements.txt                    # Dependencies (pip)
-├── environment.yml                     # Dependencies (conda)
-├── .gitignore                          # Ignore large/unnecessary files
-└── README.md                           # Project documentation
+├── brain_tumor_classification.ipynb   # Main Jupyter/Colab notebook <br>
+├── requirements.txt                    # Dependencies (pip) <br>
+├── environment.yml                     # Dependencies (conda)  <br>
+├── .gitignore                          # Ignore large/unnecessary files  <br>
+└── README.md                           # Project documentation  <br>
 
 🚀 Getting Started
 Option 1: Run in Google Colab
