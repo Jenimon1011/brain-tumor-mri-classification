@@ -95,7 +95,7 @@ Grad-CAM visualizations: Highlights MRI regions influencing predictions.
 
 ✍️ Author
 
-Your Name (@your-username)
+Jenimon Hariprasad (@Jenimon1011)
 
 ⚠️ License & Disclaimer
 
