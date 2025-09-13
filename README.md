@@ -72,7 +72,7 @@ jupyter notebook brain_tumor_classification.ipynb
 
 📊 Results
 
-Test accuracy: ~XX%
+Test accuracy: ~83.5%
 
 Evaluation metrics: Precision, Recall, F1-score per class (see notebook).
 
